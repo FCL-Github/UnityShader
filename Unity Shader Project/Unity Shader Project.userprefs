@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp-Editor.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shader\Chapter11\ScrollingBackground.shader">
+    <Files>
+      <File FileName="Assets\Shader\Chapter11\ImageSequenceAnimation.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\Chapter11\ScrollingBackground.shader" Line="68" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
